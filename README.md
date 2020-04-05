@@ -1,2 +1,3 @@
 # JSHTMLCSSPHP
-for school
+
+ school project get use js. html. css. php.  for  our website 
